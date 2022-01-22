@@ -4,7 +4,7 @@ import { View, Text } from "react-native"
 export default function Title(){
     return(
         <View>
-            <Text>OnNEBITHealtH</Text>
+            <Text>Cálculo IMC</Text>
         </View>
     );
 }
